@@ -1,5 +1,5 @@
 # 基础镜像
-FROM redis
+FROM redis:7.2.3-bookworm
 # author
 MAINTAINER ruoyi
 
